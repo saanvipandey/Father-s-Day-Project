@@ -1,0 +1,69 @@
+.login_div
+{
+	background:rgb(183, 219, 243);
+    float: none;
+    border-radius: 15px;
+    width:60%;
+}
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+    border-color:yellow;
+    border-radius: 50px;
+    border-width: 3px;
+    border-style:ridge;
+}
+body
+{
+    background-image:url("https://cdn3.vectorstock.com/i/1000x1000/23/92/valentine-background-with-pink-glitter-hearts-vector-21502392.jpg");
+    background-position:center;
+    background-size: cover;
+}
+img
+{
+    width:100px;
+    height:100px;
+}
+h3 , label
+{
+    font-family:'Times New Roman', Times, serif;
+}
+.button
+{
+    width:60%;
+}
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+#hello
+{
+    width:10%;
+    height:20%;
+    border-radius:50px;
+}
+
+h1
+{
+    font-style:italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:inherit;
+}
+
+h2
+{
+    font-style:inherit;
+    font-weight:unset;
+    font-family:cursive;
+    color:rgb(255, 0, 0);
+}
+
+
+
+
+
